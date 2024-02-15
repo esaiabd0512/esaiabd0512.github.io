@@ -1,3 +1,10 @@
-.h1 {
-    color:brown;
+.encabezado, h2 {
+    color:rgb(54, 94, 82)
 }
+
+div {
+    color: rgb(172, 50, 90);
+}
+
+body {
+    background-color:bisque
